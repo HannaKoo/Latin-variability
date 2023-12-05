@@ -747,3 +747,84 @@
 4	conticuit	conticesco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
 
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@418
+# text = Veni ergo mecum.
+1	Veni	venio	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ergo	ergo	ADV	d--------	_	1	discourse	_	_
+3-4	mecum	_	_	_	_	_	_	_	SpaceAfter=No
+3	me	ego	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	_
+4	cum	cum	ADP	_	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@170
+# text = ' ita mihi saluam ac sospitem rem p. sistere in sua sede liceat atque eius rei fructum percipere, quem peto, ut optimi status auctor dicar et moriens ut feram mecum spem, mansura in uestigio suo fundamenta rei p. quae iecero. '
+1	'	'	PUNCT	u--------	_	14	punct	_	_
+2	ita	ita	ADV	d--------	_	14	advmod	_	_
+3	mihi	ego	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+4	saluam	salvus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	xcomp	_	_
+5	ac	atque	CCONJ	c--------	_	6	cc	_	_
+6	sospitem	sospes	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
+7	rem	res	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+8	p	publicus	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+10	sistere	sisto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	14	csubj	_	_
+11	in	in	ADP	r--------	_	13	case	_	_
+12	sua	suus	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	13	det	_	_
+13	sede	sedes	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	_
+14	liceat	licet	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	atque	atque	CCONJ	c--------	_	19	cc	_	_
+16	eius	is	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	17	det	_	_
+17	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+18	fructum	fructus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	LId=fructus2
+19	percipere	percipio	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	22	punct	_	_
+21	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	LId=qui1
+22	peto	peto	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	SpaceAfter=No
+23	,	,	PUNCT	u--------	_	22	punct	_	_
+24	ut	ut	SCONJ	c--------	_	28	mark	_	_
+25	optimi	bonus	ADJ	a-s---mgs	Case=Gen|Degree=Abs|Gender=Masc|Number=Sing	26	amod	_	_
+26	status	status	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	LId=status2
+27	auctor	auctor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	28	ccomp	_	_
+28	dicar	dico	VERB	v1spsp---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	14	advcl	_	LId=dico2
+29	et	et	CCONJ	c--------	_	32	cc	_	_
+30	moriens	morior	VERB	v-sppdmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	32	advcl	_	_
+31	ut	ut	SCONJ	c--------	_	32	mark	_	_
+32	feram	fero	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	_
+33-34	mecum	_	_	_	_	_	_	_	_
+33	me	ego	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	32	obl	_	_
+34	cum	cum	ADP	_	AdpType=Post	33	case	_	_
+35	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No
+36	,	,	PUNCT	u--------	_	37	punct	_	_
+37	mansura	maneo	VERB	v-pfpana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	35	ccomp	_	_
+38	in	in	ADP	r--------	_	39	case	_	_
+39	uestigio	vestigium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	37	obl	_	_
+40	suo	suus	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	39	det	_	_
+41	fundamenta	fundamentum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	37	nsubj	_	_
+42	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	_
+43	p	publicus	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	42	amod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	43	punct	_	_
+45	quae	qui	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	46	obj	_	LId=qui1
+46	iecero	iacio	VERB	v1stia---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	41	acl:relcl	_	SpaceAfter=No
+47	.	.	PUNCT	u--------	_	14	punct	_	_
+48	'	'	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@99
+# text = maturavit ea res consilium Galbae iam pridem de adoptione secum et cum proximis agitantis.
+1	maturavit	maturo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ea	is	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
+3	res	res	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	consilium	consilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+5	Galbae	Galba	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	iam	iam	ADV	d--------	AdvType=Tim	7	advmod:tmod	_	_
+7	pridem	pridem	ADV	d--------	AdvType=Tim	15	advmod:tmod	_	_
+8	de	de	ADP	r--------	_	9	case	_	_
+9	adoptione	adoptio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	15	obl	_	_
+10-11	secum	_	_	_	_	_	_	_	_
+10	se	sui	PRON	p-s---mb-	Case=Abl|Gender=Masc	15	obl	_	_
+11	cum	cum	ADP	_	AdpType=Post	10	case	_	_
+12	et	et	CCONJ	c--------	_	14	cc	_	_
+13	cum	cum	ADP	r--------	_	14	case	_	_
+14	proximis	propior	ADJ	a-p---mbs	Case=Abl|Degree=Abs|Gender=Masc|Number=Plur	10	conj	_	_
+15	agitantis	agito	VERB	v-spp-mg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	amod	_	SpaceAfter=No
+16	.	.	PUNCT	u--------	_	1	punct	_	_
+
