@@ -2010,3 +2010,4 @@
 4	restituo	restituo	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	suum	suus	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
 6	.	.	PUNCT	u--------	_	4	punct	_	_
+
