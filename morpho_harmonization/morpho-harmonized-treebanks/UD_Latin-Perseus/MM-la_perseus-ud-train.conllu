@@ -20421,3 +20421,4 @@
 3	fata	for	VERB	v-srpdfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	4	advcl	_	LId=for1|TraditionalMood=Participium|TraditionalTense=Perfectum
 4	conticuit	conticesco	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 5	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
+
